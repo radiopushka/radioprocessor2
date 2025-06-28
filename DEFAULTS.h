@@ -24,7 +24,7 @@ int types[]={COMP_RMS,COMP_RMS,COMP_RMS,COMP_RMS,COMP_RMS};
 #define RATE 48000
 
 // 0 is false 1 is true
-#define STEREO 0
+#define STEREO 1
 #define STEREO_GAIN 1.6
 
 #define AGC_TARG 15000
